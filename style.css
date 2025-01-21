@@ -470,6 +470,13 @@ footer p{
     }
 
 
+    footer{
+        display: block;
+        text-align: center;
+        margin: 0px auto;
+    }
+
+
 
 
 }
